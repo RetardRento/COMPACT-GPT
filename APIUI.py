@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 # Create Streamlit app
 st.title("AI ASKER")
